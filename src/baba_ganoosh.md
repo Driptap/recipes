@@ -1,4 +1,3 @@
-
 #Baba Ganoosh
 
 Cooked Augergines and garlic. 
