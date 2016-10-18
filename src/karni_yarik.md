@@ -2,19 +2,18 @@
 
 Tasty Turkish dish. Karni yarik means split belly, because you split the bellies of the Aubergines.
 
-*500g Ground mince
-*4 Large aubergines
+- 500g Ground mince
+- 4 Large aubergines
+- 3 tbsp tomato puree
+- 2 large tomatos *roughly chopped*
+- 2 cloves garlic *finely chopped*
+- 1 large onion *finely chopped*
+- 3 finger chillis *finely chopped*
+- handful mushrooms *finely chopped*
+- handful of parsley *finely chopped*
+- 1 tbsp pepper
+- 1 tbsp paprika
 
-*3 tbsp tomato puree
-*2 large tomatos - roughly chopped
-*2 cloves garlic - finely chopped
-*1 large onion - finely chopped
-*3 finger chillis - finely chopped
-*handful mushrooms - finely chopped
-*handful of parsley - finely chopped
-
-*1 tbsp pepper
-*1 tbsp paprika
 
 1. Slice the aubergines in 2, soak in salty water.
 
@@ -45,4 +44,4 @@ little more - it should be a pleasent version of slimy.
 
 12. Bake for 35mins 
 
-__[__..back__](readme.md)__
+[__\.\.back__](readme.md)
