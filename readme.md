@@ -3,7 +3,7 @@
 ###### Cook them, eat them, share them, change them.
 
 ### Meals
-1. [__Mince stuffed aubergines with rice__](_src/meals/mince_stuffed_aubergines_with_rice.md)
+1. [__Mince stuffed aubergines with rice__](src/meals/mince_stuffed_aubergines_with_rice.md)
 
 ### Individual dishes
 
