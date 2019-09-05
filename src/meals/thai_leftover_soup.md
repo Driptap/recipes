@@ -60,6 +60,6 @@ Ladle into bowls and garnish with remaining tempeh, fresh basil and nuts.
 
 Makes a bunch of soup, probably enough for 4-5 decent sized bowls, but I ate 3 in one night because it was so good!
 
-![Tasty bowl of soup, with garnish](/src/images/bowlofsoup.png)
+![Tasty bowl of soup, with garnish](../images/bowlofsoup.png)
 
 [__\.\.back__](../readme.md)
