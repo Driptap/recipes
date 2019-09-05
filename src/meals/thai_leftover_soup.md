@@ -62,4 +62,4 @@ Makes a bunch of soup, probably enough for 4-5 decent sized bowls, but I ate 3 i
 
 ![Tasty bowl of soup, with garnish](../images/bowlofsoup.png)
 
-[__\.\.back__](../readme.md)
+[__\.\.\.back__](../../readme.md)
