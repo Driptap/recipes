@@ -1,8 +1,9 @@
 # These are a bunch of recipes
 
-###### Cook them, eat them, share them, change them.
+__Cook them, eat them, share them, change them.__
 
 ### Meals
+
 1. [__Mince stuffed aubergines with rice__](src/meals/mince_stuffed_aubergines_with_rice.md)
 2. [__Thai leftover soup__](src/meals/thai_leftover_soup.md)
 
@@ -12,4 +13,3 @@
 2. [__Cacık__](src/cacik.md)
 3. [__Baba Ganoosh__](src/baba_ganoosh.md)
 4. [__Pilaf__](src/pilaf.md)
-
