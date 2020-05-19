@@ -1,14 +1,14 @@
 ### Vegetarian Karni Yarik
 
-4 tbsp Olive oil
-7 Cloves Garlic
-1 Big Onion
-2 Tomatoes
-2 Big Aubergines
-1 Pepper 
-2 tsp Paprika
-1 tsp Black Pepper
-6 Cashew nuts 
+- 4 tbsp Olive oil
+- 7 Cloves Garlic
+- 1 Big Onion
+- 2 Tomatoes
+- 2 Big Aubergines
+- 1 Pepper 
+- 2 tsp Paprika
+- 1 tsp Black Pepper
+- 6 Cashew nuts 
 
 1. Slice the Aubergine in half.
 1. Place aubergines cut side down onto a large frying pan with a little bit of olive oil.
